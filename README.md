@@ -712,6 +712,10 @@ See https://github.com/n1trux/awesome-sysadmin#distributed-filesystems
 - [Unison](https://www.cis.upenn.edu/~bcpierce/unison/) - Unison is a file-synchronization tool for OSX, Unix, and Windows. `GPL-3.0` `OCaml`
 - [Z-Push](http://z-push.org/) - Implementation of Microsoft’s [ActiveSync](https://en.wikipedia.org/wiki/ActiveSync) protocol. ([Source Code](https://stash.z-hub.io/projects/ZP/repos/z-push)) `AGPL-3.0` `PHP`
 
+#### Job Board
+
+- [Rails Job Board](https://www.blairanderson.co/open-source-job-board/) - Self-Hosted Job Board in ruby/rails with users/admins ([Source Code](https://github.com/blairanderson/open-source-job-board)) `MIT` `Rails`
+
 #### Peer-to-peer filesharing
 
 - [bittorrent-tracker](https://webtorrent.io/) - Simple, robust, BitTorrent tracker (client and server) implementation. ([Source Code](https://github.com/feross/bittorrent-tracker)) `MIT` `Nodejs`
